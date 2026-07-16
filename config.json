@@ -1,0 +1,5 @@
+{
+    "psd": "in_dir/psd.tsv",
+    "fmin": 8,
+    "fmax": 12
+}
