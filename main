@@ -10,13 +10,8 @@
 #
 # Author: Guiomar Niso, Aurore Bussalb
 
-
 set -e
 set -x
-
-# Make output directories
-mkdir -p out_dir
-mkdir -p out_figs
 
 # Run the actual python code
 singularity exec docker://brainlifemeeg/mne:1.12.1 python3 main.py
@@ -39,5 +34,4 @@ cat << EOF > product.json
 }
 
 EOF
-
 
