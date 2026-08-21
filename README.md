@@ -30,5 +30,7 @@ brainlife.io is publicly funded and for the sustainability of the project it is 
 [![NSF-IIS-1912270](https://img.shields.io/badge/NSF_IIS-1912270-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1912270) 
 [![NIH-NIBIB-R01EB029272](https://img.shields.io/badge/NIH_NIBIB-R01EB029272-green.svg)](https://grantome.com/grant/NIH/R01-EB029272-01)
 
-#### MIT Copyright (c) 2021 brainlife.io The University of Texas at Austin and Indiana University
+Copyright (c) 2026 MEEG Brainlife team
+
+This project is licensed under the AGPL-3.0 License - see [license.txt](license.txt) for details.
 
